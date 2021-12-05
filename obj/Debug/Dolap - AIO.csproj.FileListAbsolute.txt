@@ -1,0 +1,13 @@
+C:\Users\Kerem\source\repos\Dolap - AIO\Dolap - AIO\bin\Debug\Dolap - AIO.exe.config
+C:\Users\Kerem\source\repos\Dolap - AIO\Dolap - AIO\bin\Debug\Dolap - AIO.exe
+C:\Users\Kerem\source\repos\Dolap - AIO\Dolap - AIO\bin\Debug\Dolap - AIO.pdb
+C:\Users\Kerem\source\repos\Dolap - AIO\Dolap - AIO\bin\Debug\Leaf.xNet.dll
+C:\Users\Kerem\source\repos\Dolap - AIO\Dolap - AIO\bin\Debug\Leaf.xNet.xml
+C:\Users\Kerem\source\repos\Dolap - AIO\Dolap - AIO\obj\Debug\Dolap - AIO.csproj.AssemblyReference.cache
+C:\Users\Kerem\source\repos\Dolap - AIO\Dolap - AIO\obj\Debug\Dolap - AIO.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\source\repos\Dolap - AIO\Dolap - AIO\obj\Debug\Dolap - AIO.exe
+C:\Users\Kerem\source\repos\Dolap - AIO\Dolap - AIO\obj\Debug\Dolap - AIO.pdb
+C:\Users\Kerem\source\repos\Dolap - AIO\Dolap - AIO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kerem\source\repos\Dolap - AIO\Dolap - AIO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kerem\source\repos\Dolap - AIO\Dolap - AIO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kerem\source\repos\Dolap - AIO\Dolap - AIO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
