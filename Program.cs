@@ -36,7 +36,7 @@ namespace Dolap___AIO
                     var id = degers.Substring("taskId\"", "}").Replace(":", "");
                     while (true)
                     {
-                        var response1 = req.Post("https://api.capmonster.cloud/getTaskResult ", "{\"clientKey\":\"0b06d506df92d622b20c634a2dd8f739\",\"taskId\":" + id + "}", "application/json;charset=UTF-8").ToString();
+                        var response1 = req.Post("https://api.capmonster.cloud/getTaskResult ", "{\"clientKey\":\""+Token+"\",\"taskId\":" + id + "}", "application/json;charset=UTF-8").ToString();
                         if (response1.Contains("ready"))
                         {
                             response = response1.Substring("gRecaptchaResponse\":\"", "\"},");
